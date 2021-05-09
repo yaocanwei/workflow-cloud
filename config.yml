@@ -1,0 +1,14 @@
+api:
+  debug: true
+  port: 8000
+
+logs:
+  level: info
+  log_path: /Users/cheney/go/src/github.com/flowpipe-server/temp
+db:
+  host: 127.0.0.1
+  port: 3306
+  username: root
+  password: "ycw@1234"
+  database: flowpipe
+  adapter: mysql
